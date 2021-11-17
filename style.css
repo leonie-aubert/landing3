@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;1,400;1,500&family=Major+Mono+Display&family=Noto+Sans&family=Zen+Antique+Soft&display=swap');
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family:  'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #DFD8CA;
+}
+h1, h2, h3 {
+	font-family: 'Zen Antique Soft', serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
